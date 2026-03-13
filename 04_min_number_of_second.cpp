@@ -1,4 +1,6 @@
 // https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/?envType=daily-question&envId=2026-03-13
+
+
 // class Solution {
 // public:
 //     long long minNumberOfSeconds(int mountainHeight, vector<int>& workerTimes) {
